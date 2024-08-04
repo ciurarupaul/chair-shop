@@ -1,1 +1,1 @@
-[See preview](https://vercel.com/ciuraru-pauls-projects/chair-shop)
+[See preview](https://chair-shop-six.vercel.app/)
