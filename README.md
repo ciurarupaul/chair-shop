@@ -1,1 +1,1 @@
-[See preview](https://chair-shop-six.vercel.app/)
+[See preview](https://chair-shop-pi.vercel.app/)
